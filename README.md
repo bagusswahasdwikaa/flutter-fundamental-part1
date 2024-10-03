@@ -21,13 +21,13 @@
 
     Jika sudah selesai proses pembuatan project baru, pastikan tampilan seperti berikut. Pesan akan tampil berupa "Your Flutter Project is ready!" artinya Anda telah berhasil membuat project Flutter baru
 
-    ![alt text](<Screenshot 2024-09-27 095954.png>)
+![alt text](<Screenshot 2024-09-27 095954.png>)
 
 # Praktikum 2: Menghubungkan Perangkat Android atau Emulator
 
     Menjalankan aplikasi di perangkat Android menggunakan Wi-Fi
 
-    ![alt text](<Screenshot 2024-10-04 013314.png>)
+![alt text](<Screenshot 2024-10-04 013314.png>)
 
 
 # Praktikum 3: Membuat Repository GitHub dan Laporan Praktikum
@@ -36,7 +36,7 @@
 
     Login ke akun GitHub Anda, lalu buat repository baru dengan nama "flutter-fundamental-part1"
 
-    ![alt text](<Screenshot 2024-10-04 020006.png>)
+![alt text](<Screenshot 2024-10-04 020006.png>)
 
 **Langkah 2:**
 
@@ -76,4 +76,4 @@
 
     Lakukan push juga untuk semua file lainnya dengan pilih Stage All Changes. Beri pesan commit "project hello_world". Maka akan tampil di repository GitHub Anda seperti berikut.
 
-    ![alt text](<Screenshot 2024-10-04 020057.png>)
+![alt text](<Screenshot 2024-10-04 020057.png>)
