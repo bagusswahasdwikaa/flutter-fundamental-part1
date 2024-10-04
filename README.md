@@ -106,9 +106,35 @@
 
     Buat file di basic_widgets > loading_cupertino.dart. Import stateless widget dari material dan cupertino. Lalu isi kode di dalam method Widget build adalah sebagai berikut.
 
+**Langkah 2: Floating Action Button (FAB)**
+
+    Button widget terdapat beberapa macam pada flutter yaitu ButtonBar, DropdownButton, TextButton, FloatingActionButton, IconButton, OutlineButton, PopupMenuButton, dan ElevatedButton.
+
+    Buat file di basic_widgets > fab_widget.dart. Import stateless widget dari material. Lalu isi kode di dalam method Widget build adalah sebagai berikut.
+
+**Langkah 3: Scaffold Widget**
+Scaffold widget digunakan untuk mengatur tata letak sesuai dengan material design.
+
+Ubah isi kode main.dart seperti berikut.
+
 ![alt text](image.png)
+
+**Langkah 4: Dialog Widget**
+Dialog widget pada flutter memiliki dua jenis dialog yaitu AlertDialog dan SimpleDialog.
+
+Ubah isi kode main.dart seperti berikut.
 
 ![alt text](image-1.png)
 
+**Langkah 5: Input dan Selection Widget**
+Flutter menyediakan widget yang dapat menerima input dari pengguna aplikasi yaitu antara lain Checkbox, Date and Time Pickers, Radio Button, Slider, Switch, TextField.
+
+Contoh penggunaan TextField widget adalah sebagai berikut:
+
 ![alt text](image-2.png)
+
+**Langkah 6: Date and Time Pickers**
+Date and Time Pickers termasuk pada kategori input dan selection widget, berikut adalah contoh penggunaan Date and Time Pickers.
+
+![alt text](image-3.png)
     
