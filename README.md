@@ -77,3 +77,25 @@
     Lakukan push juga untuk semua file lainnya dengan pilih Stage All Changes. Beri pesan commit "project hello_world". Maka akan tampil di repository GitHub Anda seperti berikut.
 
 ![alt text](<Screenshot 2024-10-04 020057.png>)
+
+**Langkah 11:**
+
+![alt text](<Screenshot 2024-10-04 093823-2.png>)
+
+# Praktikum 4: Menerapkan
+
+**Langkah 1:**
+
+    Buat folder baru basic_widgets di dalam folder lib. Kemudian buat file baru di dalam basic_widgets dengan nama text_widget.dart. Ketik atau salin kode program berikut ke project hello_world Anda pada file text_widget.dart.
+
+![alt text](<Screenshot 2024-10-04 100707.png>)
+
+**Langkah 2:**
+    Buat sebuah file image_widget.dart di dalam folder basic_widgets dengan isi kode berikut.
+    Lakukan penyesuaian asset pada file pubspec.yaml dan tambahkan file logo Anda di folder assets project hello_world.
+
+    Lakukan penyesuaian asset pada file pubspec.yaml dan tambahkan file logo Anda di folder assets project hello_world.
+
+    Jangan lupa sesuaikan kode dan import di file main.dart kemudian akan tampil gambar seperti berikut.
+
+![alt text](<Screenshot 2024-10-04 102109.png>)
