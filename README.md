@@ -82,7 +82,7 @@
 
 ![alt text](<Screenshot 2024-10-04 093823-2.png>)
 
-# Praktikum 4: Menerapkan
+# Praktikum 4: Menerapkan Widget Dasar
 
 **Langkah 1:**
 
@@ -99,3 +99,16 @@
     Jangan lupa sesuaikan kode dan import di file main.dart kemudian akan tampil gambar seperti berikut.
 
 ![alt text](<Screenshot 2024-10-04 102109.png>)
+
+# Praktikum 5: Aplikasi Pertama dan Widget Dasar Flutter
+
+**Langkah 1: Cupertino Button dan Loading Bar**
+
+    Buat file di basic_widgets > loading_cupertino.dart. Import stateless widget dari material dan cupertino. Lalu isi kode di dalam method Widget build adalah sebagai berikut.
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+    
